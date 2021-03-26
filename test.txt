@@ -1,1 +1,2 @@
 przykładowa terść 
+test do git pull
